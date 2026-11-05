@@ -1,0 +1,6 @@
+{
+  "name": "The Royal Nikah & Walima | Zayan & Ayisha",
+  "description": "An ultra-premium, interactive royal wedding invitation for Zayan & Ayisha featuring Islamic arched frames, live countdown, timeline, gallery lightbox, RSVP via WhatsApp, and live wishes guestbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
